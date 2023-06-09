@@ -39,7 +39,7 @@ and output on console will be
   ]
 }
 
-1. For 1-input.json
+1. For 2-input.json
 Uncomment line number 5 and run the code using command
 node index.js
 and output on console will be
